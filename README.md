@@ -1,5 +1,7 @@
 # version
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tnguyen14/version.svg)](https://greenkeeper.io/)
+
 get the version of your npm package
 
 ## Install
