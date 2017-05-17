@@ -27,6 +27,6 @@
     "minimist": "^1.2.0"
   },
   "devDependencies": {
-    "tap": "^2.1.0"
+    "tap": "^10.3.2"
   }
 }
